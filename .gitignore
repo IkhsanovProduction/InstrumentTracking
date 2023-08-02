@@ -1,0 +1,10 @@
+/.vs
+/InstrumentTracking.API/bin
+/InstrumentTracking.API/obj
+/InstrumentTracking.Domain/bin
+/InstrumentTracking.Domain/obj
+/InstrumentTracking.Infrastructure/bin
+/InstrumentTracking.Infrastructure/obj
+/InstrumentTracking.Services/bin
+/InstrumentTracking.Services/obj
+
